@@ -6,7 +6,7 @@
 
         <title>Get'em On The Road - so you can say Got'R Done!</title>
         <style>
-            img{
+            #logo{
             width:100%;
             max-width:600px;
         }</style>
@@ -30,10 +30,16 @@
 
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
                 <div class="flex justify-center">
-                    <img src="logo.png">
-                </div>
+                    <img id="logo" src="logo.png">
 
+
+                </div>
+                <div class="flex justify-center">
+                    <button><img src="register.png" width="150px"></button>
+                    <button><img src="login.png" width="150px"></button>
+                </div>
             </div>
+
 
     </body>
 </html>
