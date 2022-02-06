@@ -35,8 +35,8 @@
 
                 </div>
                 <div class="flex justify-center">
-                    <button><img src="register.png" width="150px"></button>
-                    <button><img src="login.png" width="150px"></button>
+                    <a href="/register"><button type="button"><img src="register.png" width="150px"></button></a>
+                    <a href="/login"><button type="button"><img src="login.png" width="150px"></button></a>
                 </div>
             </div>
 
