@@ -4,12 +4,12 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Get'em On The Road - so you can say Got'R Done!</title>
         <style>
             img{
-    width:100%;
-    max-width:600px;
-}</style>
+            width:100%;
+            max-width:600px;
+        }</style>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -27,13 +27,13 @@
         </style>
     </head>
     <body class="antialiased">
-        
+
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
                 <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
-                  <img src="gotr.png" class=>
+                    <img src="logo.png">
                 </div>
 
             </div>
-      
+
     </body>
 </html>
